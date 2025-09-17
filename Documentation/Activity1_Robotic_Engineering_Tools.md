@@ -108,22 +108,22 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 - Verify that the 2 pictures appear below. Update your name below.
 - `Sync` your changes to your github project as explained in previous section. 
 
-**Activity Director:** Manel Puig i Vidal
+**Activity Director:** Berta Haro
 
-| ![](./Images/code.png) | ![](./Images/pick.png) |
+| ![](./Images/syncberta.png) | ![](./Images/pickberta.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
 
-**Activity Student1:** Name?
+**Activity Student1:** Sergi Quesada
 
-| ![](./Images/code.png) | ![](./Images/pick.png) |
+| ![](./Images/code2.png) | ![](./Images/pick2.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
-**Activity Student 2:** Name?
+**Activity Student 2:** Maria Baró
 
-| ![](./Images/code.png) | ![](./Images/pick.png) |
+| ![](./Images/code3.png) | ![](./Images/pick3.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
